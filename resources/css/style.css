@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    font-family: Verdana, arial, sans;
+    font-weight: normal;
+    color:white;
+    text-align:center;
+}
+
+/*Header*/
+
+.download-link {
+    color:aquamarine;
+    font-size: 16px;
+}
+
+/*footer*/
+
+.footer-container {
+    padding-top: 15px;
+}
+
+.closing a {
+    font-size: 16px;
+}
+
+.copyright {
+    text-align: right;
+}
